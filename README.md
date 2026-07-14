@@ -30,7 +30,11 @@ IRLZ44N N-Channel MOSFET
 
 
 📸 Project Preview
-(Add your schematic and 3D PCB images here.)
+<img width="1657" height="997" alt="Screenshot 2026-07-12 221329" src="https://github.com/user-attachments/assets/71f5c3fa-da67-4eda-82d8-e241c7ab87e5" />
+<img width="1563" height="919" alt="Screenshot 2026-07-12 221849" src="https://github.com/user-attachments/assets/22824027-6d31-4dd2-9feb-9ad23123f8aa" />
+<img width="1191" height="731" alt="Screenshot 2026-07-12 222006" src="https://github.com/user-attachments/assets/3b02d478-8509-478d-b07d-e2ccd021fe29" />
+
+
 
 📚 Learning Outcomes
 Schematic design
