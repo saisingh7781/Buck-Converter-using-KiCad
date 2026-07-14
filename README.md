@@ -37,6 +37,7 @@ IRLZ44N N-Channel MOSFET
 
 
 📚 Learning Outcomes
+
 Schematic design
 PCB layout
 Component footprint assignment
@@ -49,6 +50,7 @@ Optimize PCB routing.
 Generate manufacturing-ready Gerber files.
 
 👨‍💻 Author
+
 Sairathnam J
 Second-Year B.E. Electronics and Communication Engineering
 MIT Campus, Anna University
